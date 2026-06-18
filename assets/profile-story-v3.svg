@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">My path into AI</title>
+  <desc id="desc">A narrative about connecting business, product building, strategy and go-to-market.</desc>
+  <style>text { font-family: Arial, Helvetica, sans-serif; text-rendering: geometricPrecision; }</style>
+
+  <rect width="1200" height="700" fill="#FFF1C7"/>
+  <rect x="48" y="48" width="1104" height="604" rx="8" fill="#FFC9C9" fill-opacity="0.78" stroke="#4A6FA5" stroke-width="2"/>
+
+  <text x="92" y="102" fill="#4A6FA5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">01 / MY POINT OF VIEW</text>
+  <line x1="92" y1="125" x2="1108" y2="125" stroke="#4A6FA5" stroke-width="2" opacity="0.42"/>
+
+  <text x="92" y="202" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="43" font-weight="700">I came to AI from business,</text>
+  <text x="92" y="256" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="43" font-weight="700">not computer science.</text>
+
+  <rect x="92" y="310" width="458" height="280" rx="6" fill="#FFF1C7" stroke="#4A6FA5" stroke-width="2"/>
+  <text x="124" y="354" fill="#4A6FA5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">THE DISTANCE BECAME AN ADVANTAGE</text>
+  <text x="124" y="403" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">I learned to see AI not as a model</text>
+  <text x="124" y="436" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">leaderboard, but as a new way to design</text>
+  <text x="124" y="469" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">products, decisions and distribution.</text>
+
+  <rect x="582" y="310" width="526" height="280" rx="6" fill="#FFF1C7" fill-opacity="0.66" stroke="#4A6FA5" stroke-width="2"/>
+  <text x="618" y="354" fill="#4A6FA5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">ONE CONTINUOUS PRACTICE</text>
+  <text x="618" y="400" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">My work sits where product judgment,</text>
+  <text x="618" y="433" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">hands-on building, strategy and go-to-market</text>
+  <text x="618" y="466" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">meet. I move between user context and system</text>
+  <text x="618" y="499" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">behavior, asking what should exist, how it can</text>
+  <text x="618" y="532" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">work, and why anyone would adopt it.</text>
+
+  <line x1="618" y1="551" x2="1072" y2="551" stroke="#4A6FA5" stroke-width="2" opacity="0.42"/>
+  <text x="618" y="577" fill="#4A6FA5" font-size="13" font-weight="700">UNDERSTAND</text>
+  <circle cx="708" cy="572" r="3" fill="#4A6FA5"/>
+  <text x="720" y="577" fill="#4A6FA5" font-size="13" font-weight="700">SHAPE</text>
+  <circle cx="778" cy="572" r="3" fill="#4A6FA5"/>
+  <text x="790" y="577" fill="#4A6FA5" font-size="13" font-weight="700">BUILD</text>
+  <circle cx="842" cy="572" r="3" fill="#4A6FA5"/>
+  <text x="854" y="577" fill="#4A6FA5" font-size="13" font-weight="700">ADOPT</text>
+
+  <text x="92" y="626" fill="#4A6FA5" font-size="16" font-weight="700">AI PM (FDE)</text>
+  <circle cx="202" cy="620" r="3.5" fill="#4A6FA5"/>
+  <text x="218" y="626" fill="#4A6FA5" font-size="16" font-weight="700">AI STRATEGY</text>
+  <circle cx="340" cy="620" r="3.5" fill="#4A6FA5"/>
+  <text x="356" y="626" fill="#4A6FA5" font-size="16" font-weight="700">GTM</text>
+  <text x="408" y="626" fill="#4A6FA5" font-size="16">is one connected loop, not three separate labels.</text>
+</svg>
