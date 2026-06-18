@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">My path into AI</title>
+  <desc id="desc">A narrative about connecting business, product building, strategy and go-to-market.</desc>
+
+  <rect width="1200" height="650" fill="#FFF1C7"/>
+  <rect x="48" y="48" width="1104" height="554" rx="8" fill="#FFC9C9" fill-opacity="0.78" stroke="#4A6FA5" stroke-width="2"/>
+
+  <text x="92" y="102" fill="#4A6FA5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">01 / MY POINT OF VIEW</text>
+  <line x1="92" y1="125" x2="1108" y2="125" stroke="#4A6FA5" stroke-width="2" opacity="0.42"/>
+
+  <text x="92" y="202" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="43" font-weight="750">I came to AI from business,</text>
+  <text x="92" y="256" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="43" font-weight="750">not computer science.</text>
+
+  <rect x="92" y="310" width="458" height="220" rx="6" fill="#FFF1C7" stroke="#4A6FA5" stroke-width="2"/>
+  <text x="124" y="354" fill="#4A6FA5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">THE DISTANCE BECAME AN ADVANTAGE</text>
+  <text x="124" y="403" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">I learned to see AI not as a model</text>
+  <text x="124" y="436" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">leaderboard, but as a new way to design</text>
+  <text x="124" y="469" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">products, decisions and distribution.</text>
+
+  <rect x="582" y="174" width="526" height="356" rx="6" fill="#FFF1C7" fill-opacity="0.66" stroke="#4A6FA5" stroke-width="2"/>
+  <text x="618" y="225" fill="#4A6FA5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">ONE CONTINUOUS PRACTICE</text>
+  <text x="618" y="279" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">My work sits where product judgment,</text>
+  <text x="618" y="314" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">hands-on building, strategy and go-to-market</text>
+  <text x="618" y="349" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">meet. I move between user context and system</text>
+  <text x="618" y="384" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">behavior, asking what should exist, how it can</text>
+  <text x="618" y="419" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">work, and why anyone would adopt it.</text>
+
+  <line x1="618" y1="460" x2="1072" y2="460" stroke="#4A6FA5" stroke-width="2" opacity="0.42"/>
+  <text x="618" y="499" fill="#4A6FA5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">UNDERSTAND → SHAPE → BUILD → ADOPT</text>
+
+  <text x="92" y="571" fill="#4A6FA5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17">AI PM (FDE) × AI Strategy × GTM is one loop to me — not three separate labels.</text>
+</svg>
