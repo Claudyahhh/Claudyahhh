@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Siyan Yang — a non-CS business student building in public across AI PM, AI Strategy and GTM" />
+  <img src="./assets/profile-hero-v2.svg" width="100%" alt="Siyan Yang — a non-CS business student building in public across AI PM, AI Strategy and GTM" />
 </div>
 
 <br />
