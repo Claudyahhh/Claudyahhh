@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/profile-story.svg" width="100%" alt="I came to AI from business, not computer science. I connect product judgment, hands-on building, strategy and go-to-market as one continuous practice." />
+  <img src="./assets/profile-story-v2.svg" width="100%" alt="I came to AI from business, not computer science. I connect product judgment, hands-on building, strategy and go-to-market as one continuous practice." />
 </div>
 
 <br />
